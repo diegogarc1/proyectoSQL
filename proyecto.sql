@@ -1,18 +1,3 @@
-Skip to content
- 
-Search Gists
-Search...
-All gists
-Back to GitHub
-@diegogarc1
-diegogarc1/Proyecto.sql Secret
-Last active 2 minutes ago
-Code
-Revisions
-2
-Clone this repository at &lt;script src=&quot;https://gist.github.com/diegogarc1/bf25696c5956591de12975549d202a84.js&quot;&gt;&lt;/script&gt;
-<script src="https://gist.github.com/diegogarc1/bf25696c5956591de12975549d202a84.js"></script>
-Proyecto.sql
 create table clientes (
     id_cliente int primary key auto_increment,
     nombre varchar(100) not null,
@@ -165,20 +150,6 @@ Insert Into Planes_pago (Id_deuda, Fecha_inicio, Fecha_fin, Monto_cuota, Frecuen
 (9, '2025-05-03', '2025-06-03', 525.00, 'Mensual', 3, 'Activo'),
 (7, '2025-07-15', '2026-07-15', 500.00, 'Mensual', 15, 'Pendiente'),
 (1, '2025-05-15', '2025-05-15', 750.00, 'Único', 15, 'Pendiente');
-@diegogarc1
-Comment
- 
-Leave a comment
- 
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
 Manage cookies
 Do not share my personal information
 Proyecto.sql
